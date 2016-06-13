@@ -1,22 +1,53 @@
-Sample Presentation
-10 Mar 2014
-Tags: go golang
+My Computer Science Book Shelf
+14 Jun 2016
+Tags: books computer science
 
-Satish Talim
-Go Hobbyist
-satish@joshsoftware.com
-http://satishtalim.com/
-@IndianGuru
+Eliezer Croitoru
+Linux System Administrator
+Squid-Cache Developer
+eliezer@ngtech.co.il
+http://new.ngtech.co.il/
+Mobile: +972-5-28704261
 
-* Who is this guy?
 
-.image ./talim.jpg
+* My list of books
+- Squid: The Definitive Guide Book by Duane Wessels
+- Computer Networking: A Top-Down Approach (5th Edition)
+- Java Software Solutions
+- Metaprogramming Ruby Program Like Facets
+- Linux High Availability Clustering
+- LPIC-1 Linux Professional Institute Certification
+- LPIC-2 Linux Professional Institute Certification
 
-- Programming addict
-- C, Java, Ruby, Go
-- Director, JoshSoftware
-.link http://www.joshsoftware.com/team The JoshSoftware team
+* Squid: The Definitive Guide Book by Duane Wessels
+.image SquidTheDeginfitiveGuide.jpg _ 370
+.link http://shop.oreilly.com/product/9780596001629.do Squid: The Definitive Guide Book by Duane Wessels
 
-* Example Go code
+* Computer Networking: A Top-Down Approach (5th Edition)
+.image ComputerNetworking.jpg _ 370
+.link https://www.amazon.co.uk/Computer-Networking-International-Top-Down-Approach/dp/0131365487 Computer Networking: A Top-Down Approach (5th Edition)
 
-.play hello.go
+* Java Software Solutions
+.image JavaSoftwareSolutions.jpg _ 370
+.link https://www.amazon.co.uk/Java-Software-Solutions-International-Foundations/dp/0321549341 Java Software Solutions
+
+* Metaprogramming Ruby Program Like Facets
+.image MetaprogrammingRuby2.jpg _ 370
+.link https://www.amazon.co.uk/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129/ Metaprogramming Ruby Program Like Facets
+
+* Linux High Availability Clustering
+.image LinuxHaClustering.jpg _ 370
+.link https://www.amazon.co.uk/Pro-Linux-High-Availability-Clustering/dp/1484200802/ Linux High Availability Clustering
+
+* LPIC-1 Linux Professional Institute Certification
+.image LPIC-1.jpg
+.link https://www.amazon.co.uk/LPIC-1-Linux-Professional-Institute-Certification/dp/1119021189/ LPIC-1 Linux Professional Institute Certification
+
+* LPIC-2 Linux Professional Institute Certification
+.image LPIC-2.jpg
+.link https://www.amazon.co.uk/LPIC-2-Linux-Professional-Institute-Certification/dp/1119150795/ LPIC-2 Linux Professional Institute Certification
+
+* Some of my Projects
+- SquidBlocker: A url filtering DB for hospitals
+- Squid-Cache StoreID feature
+- Internet Rimon - Email and Monitoring systems design and operation.
